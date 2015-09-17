@@ -12,6 +12,8 @@ The web app is built by creating objects ```Player```, ```Space```, ```Board``` 
 
 * Clone the project using the link provided on Github in the Terminal.
 * Open ```tictactoe.html``` from the main project folder.
+* 
+* Or click the title link above
 
 ## Technologies Used
 
